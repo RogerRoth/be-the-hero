@@ -1,6 +1,27 @@
-# 🚀 Semana Omnistack 11.0 🚀
 
-![logo.svg](https://github.com/RogerRoth/be-the-hero/blob/master/frontend/src/assets/logo.svg)
+<h1 align="center">
+🚀 Semana Omnistack 11.0 🚀
+</h1>
+
+<h1 align="center">
+    <img alt="Be The Hero" title="#bethehero" src="https://github.com/RogerRoth/be-the-hero/blob/master/frontend/src/assets/logo.svg" width="250px" />
+</h1>
+
+<p align="center">
+  
+  <a href="https://github.com/RogerRoth/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/RogerRoth/be-the-hero">
+  </a>
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RogerRoth/be-the-hero">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RogerRoth/be-the-hero">
+  
+  <a href="https://github.com/RogerRoth/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RogerRoth/be-the-hero">
+  </a>
+
+</p>
 
 Projeto resultante da semana OmniStack 11.0 realizada pela Rocketseat.
 
@@ -20,7 +41,9 @@ Projeto resultante da semana OmniStack 11.0 realizada pela Rocketseat.
   - Frontend com **ReacJS**
   - Mobile com **React-Native**
   
-![heroes.png](https://github.com/RogerRoth/be-the-hero/blob/master/frontend/src/assets/heroes.png)
+<h1 align="center">
+    <img alt="Be The Hero" title="#bethehero" src="https://github.com/RogerRoth/be-the-hero/blob/master/frontend/src/assets/heroes.png"  />
+</h1>
 
 ## **Conteúdo da semana:**
 ### Aula 1 - Conhecendo a OmniStack

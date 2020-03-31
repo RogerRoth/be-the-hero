@@ -36,7 +36,7 @@ Projeto resultante da semana OmniStack 11.0 realizada pela Rocketseat.
 ### **Aplicação Mobile:**
   - Facilitar a visualização destes casos para as pessoas, que desejam fazer alguma doação.
 
-### **Tecnologia utilizadas:**
+### **Tecnologias utilizadas:**
   - Backend com **NodeJS**
   - Frontend com **ReacJS**
   - Mobile com **React-Native**
